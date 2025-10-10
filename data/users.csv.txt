@@ -1,0 +1,6 @@
+id,email
+1,alice@gmail.com
+2,bob@yahoo.com
+3,charlie@outlook.com
+4,david@yahoo.com
+5,emma@gmail.com

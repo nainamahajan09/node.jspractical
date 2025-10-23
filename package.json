@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "node.jspractical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "6.2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nainamahajan09/node.jspractical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nainamahajan09/node.jspractical/issues"
+  },
+  "homepage": "https://github.com/nainamahajan09/node.jspractical#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

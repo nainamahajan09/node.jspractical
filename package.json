@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nainamahajan09/node.jspractical#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
   }
 }
